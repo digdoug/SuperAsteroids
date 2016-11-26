@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/lp1/Documents/BYU/Winter 2016/cs_240/SuperAsteroids/app/build/intermediates/res/merged/debug/layout-xlarge-v4/fragment_main.xml",
+        "source": "/Users/lp1/Documents/BYU/Winter 2016/cs_240/SuperAsteroids/app/src/main/res/layout-xlarge/fragment_main.xml"
+    },
+    {
+        "merged": "/Users/lp1/Documents/BYU/Winter 2016/cs_240/SuperAsteroids/app/build/intermediates/res/merged/debug/layout-xlarge-v4/row_import_file.xml",
+        "source": "/Users/lp1/Documents/BYU/Winter 2016/cs_240/SuperAsteroids/app/src/main/res/layout-xlarge/row_import_file.xml"
+    },
+    {
+        "merged": "/Users/lp1/Documents/BYU/Winter 2016/cs_240/SuperAsteroids/app/build/intermediates/res/merged/debug/layout-xlarge-v4/fragment_import.xml",
+        "source": "/Users/lp1/Documents/BYU/Winter 2016/cs_240/SuperAsteroids/app/src/main/res/layout-xlarge/fragment_import.xml"
+    }
+]
